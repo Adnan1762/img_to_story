@@ -36,13 +36,13 @@ https://github.com/user-attachments/assets/cba8d1dd-63ae-4c9d-aafe-4f8b9a2144a8
 
 
 # Installation & Setup
-Open Code in Google Colab:
+Open Code in Google Colab: https://colab.research.google.com/drive/1MI7P7CoaRJ0lkp4o8W_c_9aYrvdpX_JJ
 
 Run all cells step-by-step.
 
 Upload your image file (JPG/PNG).
 
-Provide your Hugging Face token when prompted.
+Provide your Hugging Face token and Open AI API when prompted.
 
 Let the magic begin!
 
